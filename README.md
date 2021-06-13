@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://shiraha.cn">
+  <a href="https://iequa.com">
     <img src="https://cdn.jsdelivr.net/gh/ymd45921/ymd45921@main/static/avatar/HimenoSena.png" alt="Himeno Sena" width="128" height="128">
   </a>
 </p>
@@ -18,8 +18,8 @@
 
 </span>
 
-<!--
-**ymd45921/ymd45921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**blair101/blair101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
