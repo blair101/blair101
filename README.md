@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://iequa.com">
+  <a href="https://52binge.github.io/">
     <img src="https://cdn.jsdelivr.net/gh/ymd45921/ymd45921@main/static/avatar/HimenoSena.png" alt="Himeno Sena" width="128" height="128">
   </a>
 </p>
