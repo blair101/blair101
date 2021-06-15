@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://52binge.github.io/">
-    <img src="https://cdn.jsdelivr.net/gh/ymd45921/ymd45921@main/static/avatar/HimenoSena.png" alt="Himeno Sena" width="128" height="128">
+    <img src="https://52binge.github.io/images/logos/logo10.png" alt="Himeno Sena" width="128" height="128">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
   Gravitation is not responsible for people falling in love
 </p>
 <p align="center">
-  魔法少女☆七海，每日进化中！
+  Blair Chan☆星の海，每日进化中！
 </p>
 <span align="center">
 
