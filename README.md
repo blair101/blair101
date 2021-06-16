@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">せな Lovin' you</h1>
+<h1 align="center">ぶれあ Lovin' you</h1>
 
 <p align="center">
   Gravitation is not responsible for people falling in love
