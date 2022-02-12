@@ -10,7 +10,7 @@
   Gravitation is not responsible for people falling in love
 </p>
 <p align="center">
-  Blair Chan☆星の海，每日进化中！
+  Blair Chen☆星の海，每日进化中！
 </p>
 <span align="center">
 
