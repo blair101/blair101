@@ -24,7 +24,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tencent Group. 
-- 🌱 I’m currently learning English (IELTS)
+- 🌱 I’m currently learning English (IELTS) by 2022
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about www.iequa.com/about
